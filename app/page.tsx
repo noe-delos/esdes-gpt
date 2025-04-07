@@ -445,12 +445,9 @@ export default function Page() {
                     <AuroraText className="text-3xl">Justine</AuroraText>,
                     l'assistante alumni de ESDES.
                   </motion.h2>
-                  <video
-                    src="/justine.mp4"
-                    autoPlay
-                    loop
-                    muted
-                    playsInline
+                  <img
+                    src="/justine.png"
+                    alt="fs"
                     className="h-auto w-24 rounded-full object-cover hidden sm:block"
                   />
                 </div>{" "}
