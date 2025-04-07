@@ -554,7 +554,7 @@ export default function Page() {
                           ) : (
                             <div className="flex items-start gap-3">
                               <Image
-                                src="/justine.jpeg"
+                                src="/justine.png"
                                 alt="Justine"
                                 width={40}
                                 height={40}
